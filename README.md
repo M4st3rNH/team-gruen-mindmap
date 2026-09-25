@@ -2,6 +2,8 @@
 
 Gemeinsame Produktideen-Mindmap für **Team Grün**.
 
+**Live:** https://m4st3rnh.github.io/team-gruen-mindmap/
+
 ## Architektur
 
 - **GitHub Pages** stellt nur die statische Weboberfläche bereit.
